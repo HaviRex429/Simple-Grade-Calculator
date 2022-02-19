@@ -1,3 +1,6 @@
 # Simple-Grade-Calculator
 Simple grade calculator made by Pascal.
-![cmd_iQBs7qffLB](https://user-images.githubusercontent.com/73098677/154813228-f1bcd035-f88e-46e3-81be-4bd5c6dd1614.png)
+
+![ApplicationFrameHost_xSUUjNiNFv](https://user-images.githubusercontent.com/73098677/154813251-163418ca-acfc-427c-bacd-7aa4dd75a894.png)
+
+
